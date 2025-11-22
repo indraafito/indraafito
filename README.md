@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub Statistics (Purple Theme – TokyoNight)
+## 📊 GitHub Statistics
 
 <div align="center">
 
