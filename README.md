@@ -5,7 +5,7 @@
 <div align="center" style="backdrop-filter: blur(12px); background: rgba(255,255,255,0.06); padding: 25px; border-radius: 18px;">
   
   <h1 align="center" style="color:#B688FF;">Afito Indra Permana</h1>
-  <p align="center" style="color:#D8C9FF;">Front-End Developer • UI/UX Enthusiast</p>
+  <p align="center" style="color:#D8C9FF;">Front-End Developer | UI/UX Enthusiast</p>
   <p align="center" style="color:#A47DFF;">Informatics Engineering — Universitas Negeri Malang '23</p>
 </div>
 
