@@ -29,23 +29,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### ⭐ GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=indraafito&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-### 🔥 Streak Stats
-![](https://nirzak-streak-stats.vercel.app/?user=indraafito&theme=tokyonight&hide_border=false)
-
-### 🧩 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indraafito&theme=tokyonight&hide_border=false&layout=compact)
-
-</div>
-
----
-
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=footer&color=gradient" />
 </div>
